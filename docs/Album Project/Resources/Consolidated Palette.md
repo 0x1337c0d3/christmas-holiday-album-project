@@ -12,6 +12,16 @@ This is your **fixed palette** for the entire 14-day project.
 
 The constraints are intentional — they force creativity and ensure cohesion.
 
+### 📌 Strong Workflow Recommendation
+
+**Sample the XT once → lock the palette → forget about drums.**
+
+Spend your 1-hour creative sprints on **music**, not patching.
+
+This is exactly how Bowie/Eno worked: **restrict, commit, move on.**
+
+Your energy should go into composition and arrangement, not endless sound design. Day 1 is for building the palette. Days 2-14 are for making music with it.
+
 ---
 
 ## Hardware Synths
