@@ -280,19 +280,23 @@ Focus: **3-4 movements, 5-7 minutes each, Eno/Jarre aesthetic**
 
 ### Week 1 (Side A):
 
+```
 MON  | TUE  | WED  | THU  | FRI  | SAT  | SUN
 -----|------|------|------|------|------|-----
  1   |  2   |  3   |  4   |  5   |  6   |  7
 Setup| T1   | T2   | T3   | T4   | T5   | Lock
      |Sketch|Sketch|Sketch|Sketch|Sketch| In
+```
 
 ### Week 2 (Side B):
 
+```
 MON  | TUE  | WED   | THU  | FRI | SAT    | SUN
 -----|------|-------|------|-----|--------|-----
  8   |  9   | 10    | 11   | 12  | 13     | 14
 Mov I|Mov II|Mov III|Mov IV|Lock |Cohesion|Wrap
      |      |       |(opt) |  In |        |
+```
 
 ---
 
