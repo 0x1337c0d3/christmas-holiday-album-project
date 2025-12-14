@@ -20,7 +20,7 @@ A comprehensive creative framework for composing a Bowie "Low" / Jarre "Waiting 
 
 This documentation is organized into four main sections:
 
-### 📋 [Cheat Cards](Cheat%20Cards/)
+### 📋 [Cheat Cards](docs/Album%20Project/Cheat%20Cards/)
 Quick-reference daily guides (one file per day) with:
 - Day's objective and time budget
 - Track/movement briefs
@@ -30,21 +30,21 @@ Quick-reference daily guides (one file per day) with:
 
 **Use these as your primary daily reference.**
 
-### 🎵 [Side A](Side%20A/)
+### 🎵 [Side A](docs/Album%20Project/Side%20A/)
 Song-based content (Days 01-07):
 - Angular, experimental "song" sketches
 - Berlin Trilogy-inspired aesthetic
 - Harmonic progression-based composition
 - Rhythmic and melodic focus
 
-### 🌌 [Side B](Side%20B/)
+### 🌌 [Side B](docs/Album%20Project/Side%20B/)
 Ambient suite content (Days 08-14):
 - Long-form textural movements
 - Modal/drone-based composition
 - Slow evolution and patient listening
 - Eno/Jarre-inspired spaciousness
 
-### 📚 [Resources](Resources/)
+### 📚 [Resources](docs/Album%20Project/Resources/)
 Reference materials used throughout:
 - Consolidated sound palette
 - Drum rack layouts
@@ -164,8 +164,8 @@ Reference materials used throughout:
 
 ### If Starting from Scratch:
 
-1. **Read [Day 01 Cheat Card](Cheat%20Cards/Day%2001%20-%20Concept%20and%20Sound%20Palette.md)**
-2. **Set up your sound palette** (see [Resources/Consolidated Palette](Resources/Consolidated%20Palette.md))
+1. **Read [Day 01 Cheat Card](docs/Album%20Project/Cheat%20Cards/Day%2001%20-%20Concept%20and%20Sound%20Palette.md)**
+2. **Set up your sound palette** (see [Resources/Consolidated Palette](docs/Album%20Project/Resources/Consolidated%20Palette.md))
 3. **Follow one Cheat Card per day** in order
 4. **Reference Resources as needed** (Oblique Strategies, Motif Generator, etc.)
 5. **Stay disciplined** with time limits
@@ -182,15 +182,15 @@ Reference materials used throughout:
 
 ## Key Resources Quick Links
 
-- [Daily Checklist](Resources/Daily%20Checklist.md) — Printable workflow
-- [Track Briefs](Resources/Track%20Briefs.md) — Complete creative direction
-- [Oblique Strategies](Resources/Oblique%20Strategies.md) — When you're stuck
-- [Motif Generator](Resources/Motif%20Generator.md) — Melodic/rhythmic starting points
-- [Drum Rack Layout](Resources/Drum%20Rack%20Layout.md) — Pad-by-pad drum configuration
-- [Side A Key Plan](Resources/Side%20A%20Key%20Plan.md) — Harmonic roadmap
-- [Side B Ambient Kit](Resources/Side%20B%20Ambient%20Kit.md) — Modal/texture guide
-- [Consolidated Palette](Resources/Consolidated%20Palette.md) — Full sound specifications
-- [Two-Week Calendar](Resources/Two-Week%20Calendar%20Printable.md) — Timeline overview
+- [Daily Checklist](docs/Album%20Project/Resources/Daily%20Checklist.md) — Printable workflow
+- [Track Briefs](docs/Album%20Project/Resources/Track%20Briefs.md) — Complete creative direction
+- [Oblique Strategies](docs/Album%20Project/Resources/Oblique%20Strategies.md) — When you're stuck
+- [Motif Generator](docs/Album%20Project/Resources/Motif%20Generator.md) — Melodic/rhythmic starting points
+- [Drum Rack Layout](docs/Album%20Project/Resources/Drum%20Rack%20Layout.md) — Pad-by-pad drum configuration
+- [Side A Key Plan](docs/Album%20Project/Resources/Side%20A%20Key%20Plan.md) — Harmonic roadmap
+- [Side B Ambient Kit](docs/Album%20Project/Resources/Side%20B%20Ambient%20Kit.md) — Modal/texture guide
+- [Consolidated Palette](docs/Album%20Project/Resources/Consolidated%20Palette.md) — Full sound specifications
+- [Two-Week Calendar](docs/Album%20Project/Resources/Two-Week%20Calendar%20Printable.md) — Timeline overview
 
 ---
 
@@ -281,7 +281,7 @@ This documentation framework is provided for personal creative use. Adapt it for
 
 ## Get Started
 
-1. Open [Day 01 - Concept and Sound Palette](Cheat%20Cards/Day%2001%20-%20Concept%20and%20Sound%20Palette.md)
+1. Open [Day 01 - Concept and Sound Palette](docs/Album%20Project/Cheat%20Cards/Day%2001%20-%20Concept%20and%20Sound%20Palette.md)
 2. Block out 14 days in your calendar
 3. Commit to the constraints
 4. Trust the process

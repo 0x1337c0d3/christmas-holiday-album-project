@@ -69,13 +69,13 @@ Creates natural flow from energetic opener to calm bridge into Side B.
 
 For detailed day-by-day instructions, see the [Cheat Cards](../Cheat%20Cards/) folder:
 
-- [Day 01 - Concept and Sound Palette](Day%2001%20-%20Concept%20and%20Sound%20Palette.md)
-- [Day 02 - Song Sketch 1](Day%2002%20-%20Song%20Sketch%201.md)
-- [Day 03 - Song Sketch 2](Day%2003%20-%20Song%20Sketch%202.md)
-- [Day 04 - Song Sketch 3](Day%2004%20-%20Song%20Sketch%203.md)
-- [Day 05 - Song Sketch 4](Day%2005%20-%20Song%20Sketch%204.md)
-- [Day 06 - Song Sketch 5](Day%2006%20-%20Song%20Sketch%205.md)
-- [Day 07 - Side A Lock-In](Day%2007%20-%20Side%20A%20Lock-In.md)
+- [Day 01 - Concept and Sound Palette](../Cheat%20Cards/Day%2001%20-%20Concept%20and%20Sound%20Palette.md)
+- [Day 02 - Song Sketch 1](../Cheat%20Cards/Day%2002%20-%20Song%20Sketch%201.md)
+- [Day 03 - Song Sketch 2](../Cheat%20Cards/Day%2003%20-%20Song%20Sketch%202.md)
+- [Day 04 - Song Sketch 3](../Cheat%20Cards/Day%2004%20-%20Song%20Sketch%203.md)
+- [Day 05 - Song Sketch 4](../Cheat%20Cards/Day%2005%20-%20Song%20Sketch%204.md)
+- [Day 06 - Song Sketch 5](../Cheat%20Cards/Day%2006%20-%20Song%20Sketch%205.md)
+- [Day 07 - Side A Lock-In](../Cheat%20Cards/Day%2007%20-%20Side%20A%20Lock-In.md)
 
 ---
 

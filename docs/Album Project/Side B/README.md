@@ -90,13 +90,13 @@ This is Brian Eno's ambient principle: let the listener settle into the sonic wo
 
 For detailed day-by-day instructions, see the [Cheat Cards](../Cheat%20Cards/) folder:
 
-- [Day 08 - Ambient Suite Part I](Day%2008%20-%20Ambient%20Suite%20Part%20I.md)
-- [Day 09 - Ambient Suite Part II](Day%2009%20-%20Ambient%20Suite%20Part%20II.md)
-- [Day 10 - Ambient Suite Part III](Day%2010%20-%20Ambient%20Suite%20Part%20III.md)
-- [Day 11 - Optional Movement IV - Transition](Day%2011%20-%20Optional%20Movement%20IV%20-%20Transition.md)
-- [Day 12 - Side B Lock-In](Day%2012%20-%20Side%20B%20Lock-In.md)
-- [Day 13 - Cohesion Day](Day%2013%20-%20Cohesion%20Day.md)
-- [Day 14 - Album Wrap](Day%2014%20-%20Album%20Wrap.md)
+- [Day 08 - Ambient Suite Part I](../Cheat%20Cards/Day%2008%20-%20Ambient%20Suite%20Part%20I.md)
+- [Day 09 - Ambient Suite Part II](../Cheat%20Cards/Day%2009%20-%20Ambient%20Suite%20Part%20II.md)
+- [Day 10 - Ambient Suite Part III](../Cheat%20Cards/Day%2010%20-%20Ambient%20Suite%20Part%20III.md)
+- [Day 11 - Optional Movement IV - Transition](../Cheat%20Cards/Day%2011%20-%20Optional%20Movement%20IV%20-%20Transition.md)
+- [Day 12 - Side B Lock-In](../Cheat%20Cards/Day%2012%20-%20Side%20B%20Lock-In.md)
+- [Day 13 - Cohesion Day](../Cheat%20Cards/Day%2013%20-%20Cohesion%20Day.md)
+- [Day 14 - Album Wrap](../Cheat%20Cards/Day%2014%20-%20Album%20Wrap.md)
 
 ---
 
