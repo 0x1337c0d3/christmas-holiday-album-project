@@ -109,9 +109,9 @@ This is your sixth and final Side A sketch. It should feel like:
 
 **This is your defining harmonic feature:**
 
-**C#m (C# - E - G#)** → **C# major (C# - F - G#)**
+**C#m (C# - E - G#)** → **C# major (C# - E#/F - G#)**
 
-- Only one note changes: E becomes F (a half-step up)
+- Only one note changes: E becomes E#/F (a half-step up)
 - Creates immediate brightness shift
 - Very Bowie/Eno aesthetic
 - Echoes "Dislocation" (Track 4)
