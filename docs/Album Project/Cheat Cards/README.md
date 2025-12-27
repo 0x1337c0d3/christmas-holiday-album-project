@@ -41,6 +41,7 @@ Each day has a dedicated cheat card that serves as your primary workflow guide. 
 | 04 | [Day 04 - Song Sketch 3](Day%2004%20-%20Song%20Sketch%203.md) | Track 3: Blue Glass | 1 hr |
 | 05 | [Day 05 - Song Sketch 4](Day%2005%20-%20Song%20Sketch%204.md) | Track 4: Dislocation | 1 hr |
 | 06 | [Day 06 - Song Sketch 5](Day%2006%20-%20Song%20Sketch%205.md) | Track 5: Small Resolution | 1 hr |
+| 06.5 | [Day 06.5 - Song Sketch 6](Day%2006.5%20-%20Song%20Sketch%206.md) | Track 6: Return Pulse | 1 hr |
 | 07 | [Day 07 - Side A Lock-In](Day%2007%20-%20Side%20A%20Lock-In.md) | Finalize Side A structure | 2-3 hrs |
 
 ---

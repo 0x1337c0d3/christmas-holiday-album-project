@@ -66,10 +66,11 @@ Reference materials used throughout:
 | **03** | Track 2 Sketch | 1 hr | Shadow Pop (C minor) |
 | **04** | Track 3 Sketch | 1 hr | Blue Glass (collage) |
 | **05** | Track 4 Sketch | 1 hr | Dislocation (Bb → Dmaj7) |
-| **06** | Track 5 Sketch (+opt. 6) | 1 hr | Small Resolution (Em) |
+| **06** | Track 5 Sketch | 1 hr | Small Resolution (Em) |
+| **06.5** | Track 6 Sketch | 1 hr | Return Pulse (C#m) |
 | **07** | Side A Lock-In | 2-3 hrs | Finalized Side A structure |
 
-**Result:** 5-6 track sketches, ~18-22 minutes, cohesive running order
+**Result:** 6 track sketches, ~20-24 minutes, cohesive running order
 
 ### Week 2: Side B (Ambient Suite)
 
